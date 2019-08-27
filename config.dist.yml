@@ -1,0 +1,4 @@
+debug: false
+
+logging_folder: '/Path/to/log/'
+files_folder: '/Path/to/files/'
