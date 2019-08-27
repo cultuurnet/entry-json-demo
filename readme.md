@@ -1,2 +1,2 @@
-fetch data from Kinepolis API.
+Demo for the Publiq EntryAPI
 
