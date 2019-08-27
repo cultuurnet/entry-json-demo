@@ -1,0 +1,4 @@
+name: EntryJsonDemo Migrations
+migrations_namespace: CultuurNet\EntryJsonDemo\Migrations
+table_name: doctrine_migration_versions
+migrations_directory: src/Migrations
